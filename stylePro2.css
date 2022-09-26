@@ -1,0 +1,43 @@
+
+
+.sideB{
+                        /* Frame 10   Sidebar*/
+
+/* Auto layout */
+
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+position: absolute;
+width: 331px;
+height: 477px;
+left: 44px;
+top: 300pxpx;
+
+color: blue;
+}
+
+
+
+
+.contents{                        /* For Contents  */
+/* Frame 8 */
+
+/* Auto layout */
+
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 63px;
+
+position: absolute;
+width: 869px;
+height: 870px;
+left: 465px;
+top: 350px;
+
+}
